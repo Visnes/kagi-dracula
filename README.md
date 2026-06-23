@@ -11,7 +11,11 @@ All instructions can be found at [draculatheme.com/kagi](https://draculatheme.co
 
 ## Team
 
-This theme is maintained by [Visnes](https://github.com/Visnes).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+
+| [![Visnes](https://github.com/visnes.png?size=100)](https://github.com/visnes) |
+--------------------------------------------------------------------------------------------- |
+| [Visnes](https://github.com/Visnes) |
 
 ## Community
 
