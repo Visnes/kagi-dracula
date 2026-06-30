@@ -1,3 +1,14 @@
+# ⚠️ Repository Moved
+
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> **The project has moved to:**
+>
+> ## ➡️ https://github.com/dracula/kagi
+>
+> Please use the new repository for all future issues, pull requests, and updates.
+
 # Dracula for [Kagi](https://kagi.com)
 
 > A dark (and light) theme for [Kagi](https://kagi.com).
